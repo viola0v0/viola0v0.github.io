@@ -1,4 +1,4 @@
-<div class="related">
+<!-- <div class="related">
   <h2>{{ site.data.settings.related_posts }}</h2>
   {% assign listed_posts_urls = page.url | split: ' ' %}
   <ul class="related-posts">
@@ -18,12 +18,12 @@
                   {{ mypost.title }}
                 </div>
                 <!--<small>{{ mypost.date | date: "%B %-d, %Y" }}</small>-->
-              </a>
-            </h3>
-          </li>
-          {% assign listed_posts_urls = listed_posts_urls | push: mypost.url %}
-        {% endif %}
-      {% endfor %}
-    {% endfor %}
-  </ul>
-</div>
+</a>
+</h3>
+</li>
+{% assign listed_posts_urls = listed_posts_urls | push: mypost.url %}
+{% endif %}
+{% endfor %}
+{% endfor %}
+</ul>
+</div> -->
