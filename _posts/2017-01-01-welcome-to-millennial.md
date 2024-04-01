@@ -23,6 +23,8 @@ This theme is completely free and open source software. You may use it however y
 
 ## More Jekyll!
 
+![alt text](https://user-images.githubusercontent.com/8409329/32801138-33a72030-c94a-11e7-8a62-6184e6df5a8f.png "Millennial Demo Image")
+
 ### Lagrange
 
 Lagrange is a minimalist Jekyll blog theme that I built from scratch. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog.
