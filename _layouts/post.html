@@ -4,7 +4,7 @@ layout: default
 
 <div class="post-content">
   <h1>
-    {{ page.title }}
+    {{ page.title | default: "Drunk Driving and Vehicle Theft in Relation to Time" }}
   </h1>
   {% if site.hide_post_date != true %}
   {% include post-date.html %}
