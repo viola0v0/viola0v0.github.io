@@ -25,7 +25,7 @@ This theme is completely free and open source software. You may use it however y
 
 ![alt text](https://user-images.githubusercontent.com/8409329/32801138-33a72030-c94a-11e7-8a62-6184e6df5a8f.png "Millennial Demo Image")
 
-<iframe src="./assets/img/my_bokeh_graph.html" width="800" height="600" frameborder="0"></iframe>
+<iframe src="./assets/img/my_bokeh_graph.html" width="100%" height="600" frameborder="0"></iframe>
 
 ### Lagrange
 
