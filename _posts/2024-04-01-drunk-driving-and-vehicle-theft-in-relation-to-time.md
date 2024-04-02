@@ -31,10 +31,32 @@ In contrast, the pattern of vehicle thefts throughout Sunday is less immediately
 
 <!-- This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%20question%20about%20Millennial;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/Millennial/issues/new). -->
 
+<style>
+.container {
+  display: flex;
+  flex-wrap: wrap;
+}
 
-<div class="uniqueMapContainer" style="display:flex; justify-content:space-between;">
-    <iframe src="./assets/img/fig_vehicle_theft.html" width="50%" height="435" frameborder="0"></iframe>
-    <iframe src="./assets/img/fig_dui.html" width="50%" height="435" frameborder="0"></iframe>
+.box {
+  flex: 1;
+  min-width: 200px;
+  padding: 20px;
+}
+
+.box iframe {
+  width: 100%; 
+  height: 200px; 
+  border: none; 
+}
+</style>
+
+<div class="container" style="display:flex; justify-content:space-between;">
+    <div class="box">
+        <iframe src="./assets/img/fig_vehicle_theft.html" frameborder="0"></iframe>
+    </div>
+    <div class="box">
+        <iframe src="./assets/img/fig_dui.html" frameborder="0"></iframe>
+    </div>
 </div>
 
 Mission recorded the highest number of DUI cases on Sundays, totaling 186 incidents, whereas the Tenderloin reported the lowest count at 35 cases. Intriguingly, despite its low DUI numbers, the Tenderloin also exhibited the fewest vehicle thefts, suggesting the effectiveness of crime prevention measures, possibly bolstered by stringent police patrols. Various factors such as nightlife vibrancy and law enforcement efforts significantly impact DUI occurrences. For further insights, interested readers are encouraged to consult local law enforcement reports or directly reach out to the LAPD.
