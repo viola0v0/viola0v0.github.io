@@ -25,6 +25,12 @@ There are also corresponding differences in other different regions. For example
 
 <iframe src="./assets/img/my_bokeh_graph.html" width="100%" height="435" frameborder="0"></iframe>
 
+<div style="display:flex; justify-content:space-between;">
+    <iframe src="./assets/img/fig_vehicle_theft.html" width="48%" height="435" frameborder="0"></iframe>
+    <iframe src="./assets/img/fig_dui.html" width="48%" height="435" frameborder="0"></iframe>
+</div>
+
+
 This chart clearly shows the proportion of each crime type occurring in each hour on Sunday. Judging from the overall trend, the number of cases peaked at 0 o'clock, then gradually decreased, reaching the lowest at 4 o'clock, and then began to rise. It reached a small peak at 7 o'clock-8 o'clock and then gradually decreased slowly, but continued to rise around 11 o'clock. High until it reaches the peak again at 23:00-24:00. 
 
 ## More Jekyll!
