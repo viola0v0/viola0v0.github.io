@@ -39,13 +39,12 @@ In contrast, the pattern of vehicle thefts throughout Sunday is less immediately
 
 .box {
   flex: 1;
-  min-width: 200px;
+  min-width: 660px;
   padding: 20px;
 }
 
 .box iframe {
-  width: 100%; 
-  height: 200px; 
+  width: 100%;  
   border: none; 
 }
 </style>
