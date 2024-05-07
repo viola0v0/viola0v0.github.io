@@ -11,7 +11,7 @@ image: cuba-1.jpg
 ## Dataset
 
 
-## 24-Hour Comparison: Sunday Vehicle Theft vs. DUI Crimes
+## 24-Hour Comparison: Sunday Vehicle Theft vs. DUI Crimeasdfoasjdf
 
 
 ## Sundays: DUI and Vehicle Theft Areas Distribution
