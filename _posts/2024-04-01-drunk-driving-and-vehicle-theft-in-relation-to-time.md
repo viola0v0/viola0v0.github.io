@@ -6,7 +6,7 @@ author: "Xinyi Xu"
 # tags: [documentation,sample]
 image: cuba-1.jpg
 ---
-<iframe src='./assets/img/project-assignment-b-notebook.html' width="100%" height="435" frameborder="0"></iframe>
+<div class='post-content' src='./assets/img/project-assignment-b-notebook.html' width="100%" height="435" frameborder="0"></iframe>
 
 ## Dataset
 
@@ -52,7 +52,6 @@ image: cuba-1.jpg
 
 
 ### Conclution
-<iframe src='./assets/img/project-assignment-b-notebook.html' width="100%" height="435" frameborder="0"></iframe>
 
 
 
